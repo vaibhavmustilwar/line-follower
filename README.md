@@ -15,9 +15,13 @@ V Sem, B.Tech. (ECE)
 ## Components Used
 
 Arduino Uno
+
 2 x IR Proximity Sensor
+
 H-Bridge L298 Motor Driver
+
 2 x DC Motors 12 V
+
 Chassis and Wheels
 
   
